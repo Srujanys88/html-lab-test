@@ -1,0 +1,70 @@
+body{
+    background-color: rgba(255, 228, 196, 0.562);
+}
+
+/* home */
+
+
+.discription{
+    font-size: 18px;
+    justify-content: center;
+    padding: 5px 35px;
+}
+.clan{
+    margin-top: 15px;
+    font-size: 24px;
+}
+.menu{
+    display: block;
+    position: fixed;
+    left: 40%;
+    bottom: 10px;
+    justify-content: center;
+    align-items: center;
+}
+.menu a{
+    margin-right: 20px;
+}
+
+
+/* about */
+.aboutme{
+    text-decoration: underline;
+}
+.pic{
+    width: 180px;
+    height: 220px;
+    margin-top: 28px;
+    margin-left: 25px;
+}
+
+.my-profile-div{
+    display: inline;
+    float: left;
+}
+.my-profile-div1{
+    display: inline;
+    font-size: 18px;
+}
+ul{
+    float: left;
+    margin-top: 50px;
+    margin-right: 50px;
+}
+.profile-dis{
+    display: inline-block;
+}
+.profile-dis p{
+    margin: 10px 25px ;
+}
+
+
+/* shvamogga */
+
+.smg-main{
+    display: flex;
+    flex-template-columns: 1fr 1fr;
+}
+.discriptionn{
+    margin: 20px;
+}
